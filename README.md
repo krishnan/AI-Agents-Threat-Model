@@ -1,5 +1,5 @@
 # AI-Agents-Threat-Model
-This Skills file is built based on [OWASP Top 10 For Agentic Applications 2026 Report]{https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/}
+This Skills file is built based on [OWASP Top 10 For Agentic Applications 2026 Report] (https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/)
 
 Use the following instructions on how to use it across different AI coding Tools
 
