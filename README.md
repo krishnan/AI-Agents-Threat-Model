@@ -7,7 +7,7 @@ Use the following instructions on how to use it across different AI coding Tools
 Claude Code natively supports the Agent Skills standard.
 
 **Setup:** Place the SKILL.md in .claude/skills/AI-Agent-Threat-Model/SKILL.md.
-**Run:** Type /threat-model in your session.
+**Run:** Type /AI-Agents-Threat-Model in your session.
 **Pro-Tip:** Use the ultrathink keyword in your prompt (e.g., /AI-Agent-Threat-Model ultrathink "audit our RAG connector") to trigger a deeper architectural analysis.
 
 # Google Antigravity
